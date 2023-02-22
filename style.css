@@ -1,0 +1,27 @@
+.container {
+	max-width: 500px;
+	margin: 0 auto;
+	padding: 20px;
+	text-align: center;
+}
+
+input, button {
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+button {
+	background-color: #4CAF50;
+	color: white;
+	border: none;
+	cursor: pointer;
+}
+
+button:hover {
+	opacity: 0.8;
+}
+
+#output {
+	margin-top: 20px;
+	font-size: 24px;
+}
